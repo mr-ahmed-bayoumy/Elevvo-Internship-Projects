@@ -13,7 +13,7 @@ Welcome to my portfolio repository for the **Elevvo Data Analytics Internship**.
   - Automated data cleaning and transformation using advanced Excel formulas.
   - Implemented dynamic Pivot Tables, KPI metric summary cards, and interactive Slicers.
   - Delivered visual trend analysis (sales by region, category, and seasonal performance).
-* **Repository:** [View Task 1 Repository]([PUT_YOUR_TASK_1_LINK_HERE](https://github.com/mr-ahmed-bayoumy/Superstore-Sales-Excel-Dashboard))
+* **Repository:** [View Task 1 Repository][(https://github.com/mr-ahmed-bayoumy/Superstore-Sales-Excel-Dashboard)]
 
 ---
 

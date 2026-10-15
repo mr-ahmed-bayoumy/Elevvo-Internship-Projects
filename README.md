@@ -13,7 +13,7 @@ Welcome to my portfolio repository for the **Elevvo Data Analytics Internship**.
   - Automated data cleaning and transformation using advanced Excel formulas.
   - Implemented dynamic Pivot Tables, KPI metric summary cards, and interactive Slicers.
   - Delivered visual trend analysis (sales by region, category, and seasonal performance).
-* **Repository:** [View Task 1 Repository][(https://github.com/mr-ahmed-bayoumy/Superstore-Sales-Excel-Dashboard)]
+* **Repository:** [View Task 1 Repository](https://github.com/mr-ahmed-bayoumy/Superstore-Sales-Excel-Dashboard)
 
 ---
 
@@ -24,7 +24,7 @@ Welcome to my portfolio repository for the **Elevvo Data Analytics Internship**.
   - Utilized multi-table `JOIN`s, Common Table Expressions (`CTE`s), and Window Functions (`ROW_NUMBER`, `DENSE_RANK`).
   - Aggregated complex transactions to evaluate revenue trends, customer lifetime value, and order frequencies.
   - Optimized query execution performance for large transactional schemas.
-* **Repository:** [View Task 5 Repository][https://github.com/mr-ahmed-bayoumy/SQL-Product-Sales-Analysis-Music-Store.sql]
+* **Repository:** [View Task 5 Repository](https://github.com/mr-ahmed-bayoumy/SQL-Product-Sales-Analysis-Music-Store.sql)
 
 ---
 
@@ -46,7 +46,7 @@ Welcome to my portfolio repository for the **Elevvo Data Analytics Internship**.
   - Programmatic data cleaning, handling missing data, and feature engineering with Pandas.
   - Statistical analysis and distribution modeling of engagement and conversion metrics.
   - Designed publication-ready visual insights to highlight top-performing acquisition channels and segments.
-* **Repository:** [View Task 10 Repository]([PUT_YOUR_TASK_10_LINK_HERE](https://github.com/mr-ahmed-bayoumy/marketing-ab-testing-analysis))
+* **Repository:** [View Task 10 Repository](https://github.com/mr-ahmed-bayoumy/marketing-ab-testing-analysis)
 
 ---
 

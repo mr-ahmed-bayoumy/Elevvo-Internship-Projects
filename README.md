@@ -24,7 +24,7 @@ Welcome to my portfolio repository for the **Elevvo Data Analytics Internship**.
   - Utilized multi-table `JOIN`s, Common Table Expressions (`CTE`s), and Window Functions (`ROW_NUMBER`, `DENSE_RANK`).
   - Aggregated complex transactions to evaluate revenue trends, customer lifetime value, and order frequencies.
   - Optimized query execution performance for large transactional schemas.
-* **Repository:** [View Task 5 Repository]([PUT_YOUR_TASK_5_LINK_HERE](https://github.com/mr-ahmed-bayoumy/SQL-Product-Sales-Analysis-Music-Store.sql))
+* **Repository:** [View Task 5 Repository][PUT_YOUR_TASK_5_LINK_HERE](https://github.com/mr-ahmed-bayoumy/SQL-Product-Sales-Analysis-Music-Store.sql]
 
 ---
 

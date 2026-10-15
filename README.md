@@ -24,7 +24,7 @@ Welcome to my portfolio repository for the **Elevvo Data Analytics Internship**.
   - Utilized multi-table `JOIN`s, Common Table Expressions (`CTE`s), and Window Functions (`ROW_NUMBER`, `DENSE_RANK`).
   - Aggregated complex transactions to evaluate revenue trends, customer lifetime value, and order frequencies.
   - Optimized query execution performance for large transactional schemas.
-* **Repository:** [View Task 5 Repository][PUT_YOUR_TASK_5_LINK_HERE](https://github.com/mr-ahmed-bayoumy/SQL-Product-Sales-Analysis-Music-Store.sql]
+* **Repository:** [View Task 5 Repository][https://github.com/mr-ahmed-bayoumy/SQL-Product-Sales-Analysis-Music-Store.sql]
 
 ---
 
@@ -35,7 +35,7 @@ Welcome to my portfolio repository for the **Elevvo Data Analytics Internship**.
   - Performed data extraction, audit, validation, and structured dimensional modeling.
   - Analyzed cohort retention rates and churn risk factors to understand customer lifecycles.
   - Formulated data-driven strategic recommendations to optimize retention and maximize customer lifetime value.
-* **Repository:** [View Task 9 Repository]([PUT_YOUR_TASK_9_LINK_HERE](https://github.com/mr-ahmed-bayoumy/Olist-Customer-Cohort-Retention-Analysis))
+* **Repository:** [View Task 9 Repository](https://github.com/mr-ahmed-bayoumy/Olist-Customer-Cohort-Retention-Analysis)
 
 ---
 
